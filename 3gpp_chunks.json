@@ -1,0 +1,16 @@
+[
+  {
+    "spec": "TS 23.502",
+    "release": "Rel-17",
+    "clause": "4.3.2.2",
+    "title": "SMF Selection",
+    "text": "The AMF selects an SMF based on..."
+  },
+  {
+    "spec": "TS 23.502",
+    "release": "Rel-17",
+    "clause": "4.2.2",
+    "title": "Registration Procedure",
+    "text": "The UE initiates registration by..."
+  }
+]
